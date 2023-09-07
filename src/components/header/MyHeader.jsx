@@ -3,7 +3,7 @@ import React from 'react'
 import "./MyHeader.css"
 import CTA from "./CTA"
 import HeaderSocials from './HeaderSocials'
-import ME from "../../assets/yukta-sm.png"
+import ME from "../../assets/yukta-tl.png"
 
 export default function MyHeader(){
     return(
