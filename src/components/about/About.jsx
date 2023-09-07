@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import ME from "../../assets/yukta-tl.png"
+import ME from "../../assets/about.png"
 import {FaGraduationCap} from "react-icons/fa"
 import {HiTranslate} from "react-icons/hi"
 import {FaRobot} from "react-icons/fa"
@@ -43,7 +43,7 @@ export default function About(){
               </div>
 
               <p>
-              Highly motivated and enthusiastic fresher software developer proficient in various programming languages and eager to learn new technologies.
+              Highly motivated and enthusiastic fresher software developer proficient in various programming languages as well as software development technologies (Spring Boot, ReactJS, MongoDB, MySQL) and eager to learn new technologies.
               </p>
 
               <a href="#contact" className="btn btn-primary">Let's Connect</a>
