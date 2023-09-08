@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LostSoulOdyssey/static/css/main.5e508c9f.css",
-    "main.js": "/LostSoulOdyssey/static/js/main.f7833bb9.js",
-    "static/js/787.bbe01249.chunk.js": "/LostSoulOdyssey/static/js/787.bbe01249.chunk.js",
-    "static/media/cv.pdf": "/LostSoulOdyssey/static/media/cv.846221175c529500a4e3.pdf",
-    "static/media/about.png": "/LostSoulOdyssey/static/media/about.f89f7f8435561335ee86.png",
-    "static/media/yukta-tl.png": "/LostSoulOdyssey/static/media/yukta-tl.a93bb0e3674e14b6f6f9.png",
-    "index.html": "/LostSoulOdyssey/index.html",
-    "main.5e508c9f.css.map": "/LostSoulOdyssey/static/css/main.5e508c9f.css.map",
-    "main.f7833bb9.js.map": "/LostSoulOdyssey/static/js/main.f7833bb9.js.map",
-    "787.bbe01249.chunk.js.map": "/LostSoulOdyssey/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/my-website/static/css/main.5e508c9f.css",
+    "main.js": "/my-website/static/js/main.c1a6f570.js",
+    "static/js/787.bbe01249.chunk.js": "/my-website/static/js/787.bbe01249.chunk.js",
+    "static/media/cv.pdf": "/my-website/static/media/cv.846221175c529500a4e3.pdf",
+    "static/media/about.png": "/my-website/static/media/about.f89f7f8435561335ee86.png",
+    "static/media/yukta-tl.png": "/my-website/static/media/yukta-tl.a93bb0e3674e14b6f6f9.png",
+    "index.html": "/my-website/index.html",
+    "main.5e508c9f.css.map": "/my-website/static/css/main.5e508c9f.css.map",
+    "main.c1a6f570.js.map": "/my-website/static/js/main.c1a6f570.js.map",
+    "787.bbe01249.chunk.js.map": "/my-website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e508c9f.css",
-    "static/js/main.f7833bb9.js"
+    "static/js/main.c1a6f570.js"
   ]
 }
