@@ -19,6 +19,14 @@ header{
     justify-content: center;
 }
 
+.cta>a{
+    margin-left: 2rem;
+}
+
+.cta a{
+    margin-right: 1rem;
+}
+
 /* ======================== Socials =================== */
 
 .header_socials{
@@ -75,8 +83,10 @@ header{
     }
 
     .header_socials{
-        display: flex;
-        bottom: 6rem;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        left: 40%;
+        gap: 0.8rem;
     }
 
     .scroll_down{
